@@ -1,0 +1,23 @@
+{
+  "name": "library-website",
+  "version": "1.0.0",
+  "description": "A library website that includes JavaScript functions for dynamic DOM manipulation and user interaction.",
+  "main": "src/scripts/script.js",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "library",
+    "website",
+    "javascript",
+    "dom",
+    "manipulation"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
